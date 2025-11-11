@@ -2,9 +2,7 @@ from google.adk.agents import Agent
 from google.adk.tools.agent_tool import AgentTool
 from travel_planner.tools import google_search_grounding, location_search_tool
 
-
 LLM= "gemini-2.0-flash"
-
 
 news_agent = Agent(
     model=LLM,
@@ -29,7 +27,6 @@ places_agent = Agent(
         """,
     tools=[location_search_tool]    
 )
-
 
 
 travel_inspiration_agent = Agent(
