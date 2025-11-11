@@ -21,7 +21,6 @@ _search_agent = Agent(
 
 google_search_grounding = AgentTool(agent=_search_agent)
 
-
 from google.adk.tools import FunctionTool
 from geopy.geocoders import Nominatim
 import requests
