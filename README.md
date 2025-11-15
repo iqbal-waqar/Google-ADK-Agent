@@ -1,4 +1,4 @@
-# ADK Agent — Travel Planner Example
+# Google ADK Agent — Travel Planner Example
 
 A compact example demonstrating how to compose Google ADK-style agents and grounding tools to build a travel-planning assistant.
 
