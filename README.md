@@ -15,7 +15,7 @@ A compact example demonstrating how to compose Google ADK-style agents and groun
 
 ## Files you care about
 
-- `main.py` — minimal entry point (prints a greeting; developer scaffold).
+- `main.py` — entry point (prints a greeting; developer scaffold).
 - `pyproject.toml` — project metadata and Python requirements.
 - `travel_planner/tools.py` — tool implementations and wrappers (place lookups, search grounding, location helpers).
 - `travel_planner/supporting_agents.py` — smaller helper agents (news_agent, places_agent, travel_inspiration_agent).
