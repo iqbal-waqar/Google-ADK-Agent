@@ -5,7 +5,7 @@ A compact example demonstrating how to compose Google ADK-style agents and groun
 ## ✨ Project snapshot
 
 - Purpose: Show how small, focused agents (news, places, inspiration) and deterministic tools (search, place lookup) can be composed into a useful assistant.
-- Example scope: travel planning — find destinations, surface recent news/events, and suggest activities using grounded tools.
+- Example scope: travel planning — find destinations, surface recent news/events, and suggest activities using tools.
 
 ## Key ideas
 
