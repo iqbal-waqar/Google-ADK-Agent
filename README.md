@@ -76,16 +76,3 @@ Contributions welcome. Small suggestions:
 
 - Add a bug report or feature request via issues.
 - Provide a PR that adds a focused tool or supporting agent and tests.
-
-## License
-
-Add a `LICENSE` file to this repo if you want to publish it. For example, MIT is a permissive choice for examples.
-
----
-
-If you'd like, I can also:
-- wire a simple CLI to the root agent,
-- add basic unit tests that assert tool output shapes, or
-- create a small demo script that composes an example query and prints the assembled itinerary.
-
-Happy to continue — tell me which of the next steps you prefer.
