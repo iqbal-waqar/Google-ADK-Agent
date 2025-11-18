@@ -1,5 +1,5 @@
 def main():
-    print("Hello from adk-agent!")
+    print("Hello from adk-Travel-Planner-agent!")
 
 
 if __name__ == "__main__":
